@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+P001,Electronics Item 1,Electronics,19783
+P002,Electronics Item 2,Electronics,17288
+P003,Electronics Item 3,Electronics,23353
+P004,Electronics Item 4,Electronics,24073
+P005,Electronics Item 5,Electronics,18065
+P006,Electronics Item 6,Electronics,10216
+P007,Electronics Item 7,Electronics,15578
+P008,Electronics Item 8,Electronics,11489
+P009,Fashion Item 9,Fashion,2664
+P010,Fashion Item 10,Fashion,3323
+P011,Fashion Item 11,Fashion,1729
+P012,Fashion Item 12,Fashion,2220
+P013,Fashion Item 13,Fashion,564
+P014,Fashion Item 14,Fashion,3051
+P015,Fashion Item 15,Fashion,2163
+P016,Fashion Item 16,Fashion,2054
+P017,Home & Kitchen Item 17,Home & Kitchen,3334
+P018,Home & Kitchen Item 18,Home & Kitchen,1528
+P019,Home & Kitchen Item 19,Home & Kitchen,3708
+P020,Home & Kitchen Item 20,Home & Kitchen,4547
+P021,Home & Kitchen Item 21,Home & Kitchen,2293
+P022,Home & Kitchen Item 22,Home & Kitchen,1047
+P023,Home & Kitchen Item 23,Home & Kitchen,2504
+P024,Home & Kitchen Item 24,Home & Kitchen,1431
+P025,Beauty Item 25,Beauty,841
+P026,Beauty Item 26,Beauty,1309
+P027,Beauty Item 27,Beauty,359
+P028,Beauty Item 28,Beauty,1532
+P029,Beauty Item 29,Beauty,565
+P030,Beauty Item 30,Beauty,1805
+P031,Beauty Item 31,Beauty,1505
+P032,Beauty Item 32,Beauty,654
+P033,Books Item 33,Books,494
+P034,Books Item 34,Books,177
+P035,Books Item 35,Books,169
+P036,Books Item 36,Books,769
+P037,Books Item 37,Books,661
+P038,Books Item 38,Books,208
+P039,Books Item 39,Books,297
+P040,Books Item 40,Books,238
